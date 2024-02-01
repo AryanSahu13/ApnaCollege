@@ -1,0 +1,16 @@
+Definition of an Array:
+
+List of elements of the same type placed in a contiguous memory location.
+
+In c++ and java, these arrays start with -based indexing.
+
+Eg: You cannot make a value with diff types like float, int, string (Mango, 4.9, 8) --> cannot be an array.
+But, same type can be, like:
+
+i. int = [1,2,3,4,5]
+ii. str = ["Mango", "Apple", "Banana"]
+iii. float = [4.9, 6.9, 8.8]
+
+OPerations - create, input, output, update
+
+

@@ -1,0 +1,27 @@
+Math has all combinations within (0,1,2,3,4,5,6,7,8,9) - known as Decimal Number System.
+
+Binary number system - 2 digits ( 0 and 1)
+
+Decimal = Binary
+(0)10   = (0)2
+(1)10   = (01)2
+(2)10   = (10)2
+(3)10   = (11)2
+(4)10   = (100)2
+(5)10   = (101)2
+(6)10   = (110)2
+(7)10   = (111)2
+(8)10   = (1000)2
+(9)10   = (1001)2
+
+Binary to decimal ==> multiply each to the power of 2. 2^n where n is the place where there is 1, and add them.
+
+Eg-1: 101 ==> (2^2)(1) + (2^1)(0) + (2^0)(1) = 4 + 0 + 1 = 5
+Eg-2: 1000 ==> (2^3)(1) + (2^2)(0) + (2^1)(0) + (2^0)(0) = 8 + 0 + 0 + 0 = 8
+
+
+power = 0
+BinaryNum = xoxoxoxox;
+Last Digit = last oen;
+dec = dec + LD * 2^POWER
+

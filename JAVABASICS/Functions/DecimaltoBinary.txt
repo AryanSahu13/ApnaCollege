@@ -1,0 +1,11 @@
+instead of multiplying to the power of 2, we will divide it here.
+i.e., instead of dividing by 10, divide by 2. 
+
+2| number
+
+2| 7 --> rem 1  (//hundreds place)
+2| 3 --> rem 1  (//tens place)
+2| 1 --> rem 1  (//ones place)
+ | 0
+
+ ones, tens, hundreds --> places accordingly gets arranged.

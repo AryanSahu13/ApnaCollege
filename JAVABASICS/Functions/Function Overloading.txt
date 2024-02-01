@@ -1,0 +1,18 @@
+Function Overloading:
+
+It means that multiple functions with same name but different parameters.
+
+Say,
+multiply 1 (int a, int b);
+multiply 2 (float a, float b);
+multiply 3 (double a, double b);
+multiply 4 (int a, int b, int c);
+
+But, it is confusing when calling the method, whether we are calling int, or float, or double, or .....
+
+So, to avoid the confusion, we have same names, but each with different set of parameters. Like,
+
+multiply (int a, int b);
+multiply (float a, float b);
+multiply (double a, double b);
+multiply (int a, int b, int c);

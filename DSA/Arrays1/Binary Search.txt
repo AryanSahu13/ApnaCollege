@@ -1,0 +1,8 @@
+prerequisite - sorted array
+
+Eg: 
+array1 = 1 2 3 4 5 6 7 8
+array2 = 8 7 6 5 4 3
+
+so when searching for a key, we can easily understand whether it comes to the right of the array or to the left of the array.
+suppose eg: array1.
